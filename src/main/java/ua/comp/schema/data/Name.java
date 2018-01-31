@@ -17,4 +17,6 @@ public class Name extends CaseString {
             "value=" + ((getValue() != null) ? "\"" + getValue() + "\"" : "null") +
             "]";
     }
+
+    
 }
